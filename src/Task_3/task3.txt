@@ -1,0 +1,6 @@
+Binary thresholding converts a grayscale image into a binary (black and white) image by comparing each pixel value against a threshold. In this case:
+
+The pixel value (180) is greater than the threshold (150)
+Therefore, it gets assigned the maximum value (255), making it white in the binary image
+
+Answer: 255
