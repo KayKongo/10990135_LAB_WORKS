@@ -200,11 +200,11 @@ This is an academic project. For suggestions or improvements:
 
 ## License
 
-This project is for educational purposes as part of DCIT 412 coursework.
+This project is for educational purposes as part of DCIT 412 - COMPUTER VISION coursework.
 
 ---
 
 **Maintained by:** 10990135 - Kongo Prince Kweku  
 **Course:** DCIT 412 - Computer Vision  
-**Institution:** [Your Institution Name]  
+**Institution:** University of Ghana, Legon  
 **Last Updated:** July 2025
